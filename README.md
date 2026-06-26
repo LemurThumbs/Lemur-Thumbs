@@ -1,1 +1,3 @@
 # Lemur-Thumbs
+
+Privacy Policies
