@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Wigglers — Privacy Policy</title>
+<style>
+  body {
+    background: #0c0b10;
+    color: #ebe4d6;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+  h1 {
+    font-size: 28px;
+    margin-bottom: 4px;
+  }
+  .updated {
+    color: #9b7bd8;
+    font-size: 14px;
+    margin-bottom: 32px;
+  }
+  h2 {
+    font-size: 19px;
+    margin-top: 36px;
+    color: #e86a92;
+  }
+  p, li {
+    color: #c9c2d6;
+    font-size: 15px;
+  }
+  a {
+    color: #9b7bd8;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  .contact {
+    background: #211d2a;
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin-top: 12px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy — Wigglers</h1>
+<p class="updated">Last updated: July 5, 2026</p>
+
+<p>
+  Wigglers ("the app") is developed by Lemur Thumbs ("we," "us"). This policy explains what
+  information the app interacts with and how it's handled. Wigglers is a music-making toy —
+  it does not require an account, a login, or an internet connection to use.
+</p>
+
+<h2>Information we collect</h2>
+<p>
+  We do not collect, store, or transmit any personal information ourselves. Wigglers has no
+  user accounts, no sign-in, and no analytics or crash-reporting service of our own.
+</p>
+<p>
+  Everything you create in the app — your patterns, sounds, and settings — is saved only in
+  local storage on your own device (Android's private app storage). It is never uploaded
+  anywhere by us, and we have no way to access it.
+</p>
+
+<h2>Advertising (Google AdMob)</h2>
+<p>
+  Wigglers shows banner ads served through Google AdMob. To deliver and measure these ads,
+  Google's Mobile Ads SDK may collect information such as your advertising ID, general device
+  information, approximate location, and app interaction data, in accordance with
+  <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google's Privacy Policy</a>
+  and <a href="https://www.google.com/policies/technologies/partner-sites/" target="_blank" rel="noopener">how Google uses information from partner sites and apps</a>.
+  We do not receive or store this data ourselves — it is collected and processed by Google.
+</p>
+<p>
+  You can limit ad personalization on your device under
+  <em>Settings → Google → Ads → Opt out of Ads Personalization</em> (wording varies by Android
+  version), or manage your ad settings at
+  <a href="https://adssettings.google.com" target="_blank" rel="noopener">adssettings.google.com</a>.
+</p>
+
+<h2>Permissions the app requests</h2>
+<ul>
+  <li><strong>Vibration</strong> — used for haptic feedback on taps and holds. No data is collected.</li>
+  <li><strong>Bluetooth (connect)</strong> — used only to send MIDI output to a Bluetooth MIDI
+    device you choose to connect, if any. No data about you or your device is collected or
+    sent anywhere by us.</li>
+  <li><strong>MIDI</strong> — used to communicate with MIDI hardware/software connected to your
+    device. This is local device-to-device communication only.</li>
+</ul>
+
+<h2>Recordings and exports</h2>
+<p>
+  When you record or export audio, the app creates an audio file in its own local storage
+  area and then hands it to Android's standard share sheet if you choose to share it. Where
+  that file goes after that is entirely up to you and the app you share it to — Wigglers
+  itself does not upload or transmit it anywhere.
+</p>
+
+<h2>Children's privacy</h2>
+<p>
+  Wigglers is a general-audience app and is not directed at children under 13. We do not
+  knowingly collect personal information from children. If you believe a child has provided
+  us with personal information, contact us and we will address it.
+</p>
+
+<h2>Changes to this policy</h2>
+<p>
+  We may update this policy from time to time, for example if we add a new feature that
+  changes what data is handled. The "Last updated" date at the top will reflect the most
+  recent revision.
+</p>
+
+<h2>Contact</h2>
+<div class="contact">
+  <p style="margin:0">
+    Questions about this policy or how the app handles data can be sent to:<br />
+    <strong>lemurthumbs@gmail.com</strong>
+  </p>
+</div>
+
+</body>
+</html>
